@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>ME</head>
+    <body>
+        <p><u>Underlined</u></p>
+        <p><i>Italicized</i></p>
+        <p><b>Bold</b></p>
+
+        <img src ="https://www.bing.com/images/search?view=detailV2&ccid=yY9rQDnv&id=4EB35FA1B007ED4823CCD650A23507EADFFE812B&thid=OIP.yY9rQDnvguBXhzDysADFeQHaEy&mediaurl=https%3a%2f%2fogden_images.s3.amazonaws.com%2fwww.ljworld.com%2fimages%2f2017%2f12%2f04131429%2ffshs_lhs_swimming_01-1024x663.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c98f6b4039ef82e0578730f2b000c579%3frik%3dK4H%252b3%252boHNaJQ1g%26pid%3dImgRaw%26r%3d0&exph=663&expw=1024&q=riley+sirimongkhon-dyck&simid=608011526743858320&FORM=IRPRST&ck=3374156B6169811BCBA0F72841E53863&selectedIndex=0&ajaxhist=0&ajaxserp=0" height = "300" width = "500">
+
+        <p>Age: 20<br>Sex: Male<br>Birthday: October 27, 2002<br>Hometown: <u>Lawrence</u><br></p>
+
+        <a href = "https://www.coolmathgames.com/">Click this to play games</a>
+
+        <iframe width="420" height="345" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        </iframe>
+    </body>
+</html>
